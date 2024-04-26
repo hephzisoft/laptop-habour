@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1082589581165",
+    "firebase_url": "https://com-example-laptop-habour-default-rtdb.firebaseio.com",
+    "project_id": "com-example-laptop-habour",
+    "storage_bucket": "com-example-laptop-habour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082589581165:android:f99b347ab470f572cb1464",
+        "android_client_info": {
+          "package_name": "com.example.laptop_habour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRAjgilU2h6tasnn__xUBYfDxt6CBH9f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
