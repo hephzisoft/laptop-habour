@@ -1,17 +1,16 @@
-# laptop_habour
+#Latop Habour
+An e-commerce mobile app built with Flutter for selling laptops. The application is still in beta but I have a demo release here. 
 
-A new Flutter project.
+No backend added only Authentication has been added for now I will be adding node.js as the backend later the in future.
 
-## Getting Started
+##Existing Features 
 
-This project is a starting point for a Flutter application.
+1. Authentication
+2. Cart
+3. Wishlist
+4. Product description
+5. Notification when a product has been ordered
+6. Product review: You can add a product review and also see other people's reviews
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NB: The application 
                               
